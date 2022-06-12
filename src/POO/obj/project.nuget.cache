@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "4l7MxWYHceDzdmV2vfIG4JmuciMOnuv9TXSn0mR4ezvwMVfZpKG8wNfwCvJVUpKy9vQTrBfP+7mWnPVQ6N2ZXg==",
+  "success": true,
+  "projectFilePath": "D:\\Personal Data\\Courses\\SATRACK\\SoftwareDeveloper-Middle\\repos\\ProgrammingParadigms\\POO\\POO.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\andre\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,16 @@
+D:\Personal Data\Courses\SATRACK\SoftwareDeveloper-Middle\repos\ProgrammingParadigms\ProgrammingParadigms\bin\Debug\net5.0\ProgrammingParadigms.exe
+D:\Personal Data\Courses\SATRACK\SoftwareDeveloper-Middle\repos\ProgrammingParadigms\ProgrammingParadigms\bin\Debug\net5.0\ProgrammingParadigms.deps.json
+D:\Personal Data\Courses\SATRACK\SoftwareDeveloper-Middle\repos\ProgrammingParadigms\ProgrammingParadigms\bin\Debug\net5.0\ProgrammingParadigms.runtimeconfig.json
+D:\Personal Data\Courses\SATRACK\SoftwareDeveloper-Middle\repos\ProgrammingParadigms\ProgrammingParadigms\bin\Debug\net5.0\ProgrammingParadigms.runtimeconfig.dev.json
+D:\Personal Data\Courses\SATRACK\SoftwareDeveloper-Middle\repos\ProgrammingParadigms\ProgrammingParadigms\bin\Debug\net5.0\ProgrammingParadigms.dll
+D:\Personal Data\Courses\SATRACK\SoftwareDeveloper-Middle\repos\ProgrammingParadigms\ProgrammingParadigms\bin\Debug\net5.0\ref\ProgrammingParadigms.dll
+D:\Personal Data\Courses\SATRACK\SoftwareDeveloper-Middle\repos\ProgrammingParadigms\ProgrammingParadigms\bin\Debug\net5.0\ProgrammingParadigms.pdb
+D:\Personal Data\Courses\SATRACK\SoftwareDeveloper-Middle\repos\ProgrammingParadigms\ProgrammingParadigms\obj\Debug\net5.0\ProgrammingParadigms.csproj.AssemblyReference.cache
+D:\Personal Data\Courses\SATRACK\SoftwareDeveloper-Middle\repos\ProgrammingParadigms\ProgrammingParadigms\obj\Debug\net5.0\ProgrammingParadigms.GeneratedMSBuildEditorConfig.editorconfig
+D:\Personal Data\Courses\SATRACK\SoftwareDeveloper-Middle\repos\ProgrammingParadigms\ProgrammingParadigms\obj\Debug\net5.0\ProgrammingParadigms.AssemblyInfoInputs.cache
+D:\Personal Data\Courses\SATRACK\SoftwareDeveloper-Middle\repos\ProgrammingParadigms\ProgrammingParadigms\obj\Debug\net5.0\ProgrammingParadigms.AssemblyInfo.cs
+D:\Personal Data\Courses\SATRACK\SoftwareDeveloper-Middle\repos\ProgrammingParadigms\ProgrammingParadigms\obj\Debug\net5.0\ProgrammingParadigms.csproj.CoreCompileInputs.cache
+D:\Personal Data\Courses\SATRACK\SoftwareDeveloper-Middle\repos\ProgrammingParadigms\ProgrammingParadigms\obj\Debug\net5.0\ProgrammingParadigms.dll
+D:\Personal Data\Courses\SATRACK\SoftwareDeveloper-Middle\repos\ProgrammingParadigms\ProgrammingParadigms\obj\Debug\net5.0\ref\ProgrammingParadigms.dll
+D:\Personal Data\Courses\SATRACK\SoftwareDeveloper-Middle\repos\ProgrammingParadigms\ProgrammingParadigms\obj\Debug\net5.0\ProgrammingParadigms.pdb
+D:\Personal Data\Courses\SATRACK\SoftwareDeveloper-Middle\repos\ProgrammingParadigms\ProgrammingParadigms\obj\Debug\net5.0\ProgrammingParadigms.genruntimeconfig.cache

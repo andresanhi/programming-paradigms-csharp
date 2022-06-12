@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "hqs5INHheBA+OV7HYkRlEGi03xPuUpoEMWGjtERnxm6ZReXF7O90jS6m97gaUSi6ftzBtLsON8kPJhwLPe56lg==",
+  "success": true,
+  "projectFilePath": "D:\\Personal Data\\Courses\\SATRACK\\SoftwareDeveloper-Middle\\repos\\ProgrammingParadigms\\FuncionalProgramming\\FuncionalProgramming.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\andre\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

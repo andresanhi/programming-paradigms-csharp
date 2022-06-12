@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "1hWuNjKs0Islm6prvRUSf+pNJXvCemSYsa8QQ9Kpo/iKyGarv+QgclHlzumtc3iNa7SMXlwPL4OkulAiTR/H0A==",
+  "success": true,
+  "projectFilePath": "D:\\Personal Data\\Courses\\SATRACK\\SoftwareDeveloper-Middle\\repos\\ProgrammingParadigms\\ModularProgramming\\ModularProgramming.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\andre\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

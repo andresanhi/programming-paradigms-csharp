@@ -1,0 +1,15 @@
+D:\Personal Data\Courses\SATRACK\SoftwareDeveloper-Middle\repos\ProgrammingParadigms\FuncionalProgramming\bin\Debug\net5.0\FuncionalProgramming.exe
+D:\Personal Data\Courses\SATRACK\SoftwareDeveloper-Middle\repos\ProgrammingParadigms\FuncionalProgramming\bin\Debug\net5.0\FuncionalProgramming.deps.json
+D:\Personal Data\Courses\SATRACK\SoftwareDeveloper-Middle\repos\ProgrammingParadigms\FuncionalProgramming\bin\Debug\net5.0\FuncionalProgramming.runtimeconfig.json
+D:\Personal Data\Courses\SATRACK\SoftwareDeveloper-Middle\repos\ProgrammingParadigms\FuncionalProgramming\bin\Debug\net5.0\FuncionalProgramming.runtimeconfig.dev.json
+D:\Personal Data\Courses\SATRACK\SoftwareDeveloper-Middle\repos\ProgrammingParadigms\FuncionalProgramming\bin\Debug\net5.0\FuncionalProgramming.dll
+D:\Personal Data\Courses\SATRACK\SoftwareDeveloper-Middle\repos\ProgrammingParadigms\FuncionalProgramming\bin\Debug\net5.0\ref\FuncionalProgramming.dll
+D:\Personal Data\Courses\SATRACK\SoftwareDeveloper-Middle\repos\ProgrammingParadigms\FuncionalProgramming\bin\Debug\net5.0\FuncionalProgramming.pdb
+D:\Personal Data\Courses\SATRACK\SoftwareDeveloper-Middle\repos\ProgrammingParadigms\FuncionalProgramming\obj\Debug\net5.0\FuncionalProgramming.GeneratedMSBuildEditorConfig.editorconfig
+D:\Personal Data\Courses\SATRACK\SoftwareDeveloper-Middle\repos\ProgrammingParadigms\FuncionalProgramming\obj\Debug\net5.0\FuncionalProgramming.AssemblyInfoInputs.cache
+D:\Personal Data\Courses\SATRACK\SoftwareDeveloper-Middle\repos\ProgrammingParadigms\FuncionalProgramming\obj\Debug\net5.0\FuncionalProgramming.AssemblyInfo.cs
+D:\Personal Data\Courses\SATRACK\SoftwareDeveloper-Middle\repos\ProgrammingParadigms\FuncionalProgramming\obj\Debug\net5.0\FuncionalProgramming.csproj.CoreCompileInputs.cache
+D:\Personal Data\Courses\SATRACK\SoftwareDeveloper-Middle\repos\ProgrammingParadigms\FuncionalProgramming\obj\Debug\net5.0\FuncionalProgramming.dll
+D:\Personal Data\Courses\SATRACK\SoftwareDeveloper-Middle\repos\ProgrammingParadigms\FuncionalProgramming\obj\Debug\net5.0\ref\FuncionalProgramming.dll
+D:\Personal Data\Courses\SATRACK\SoftwareDeveloper-Middle\repos\ProgrammingParadigms\FuncionalProgramming\obj\Debug\net5.0\FuncionalProgramming.pdb
+D:\Personal Data\Courses\SATRACK\SoftwareDeveloper-Middle\repos\ProgrammingParadigms\FuncionalProgramming\obj\Debug\net5.0\FuncionalProgramming.genruntimeconfig.cache

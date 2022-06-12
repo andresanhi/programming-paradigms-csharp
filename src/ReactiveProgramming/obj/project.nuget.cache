@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "QQLoSCIQJfTkwgNw9LCmOPpCWrx1+tg8og8Ci+k2ieyZP7LCuvgqIu83039M2v8otY1rqMYceVBujq+gGqQjXw==",
+  "success": true,
+  "projectFilePath": "D:\\Personal Data\\Courses\\SATRACK\\SoftwareDeveloper-Middle\\repos\\ProgrammingParadigms\\ReactiveProgramming\\ReactiveProgramming.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\andre\\.nuget\\packages\\system.reactive\\5.0.0\\system.reactive.5.0.0.nupkg.sha512",
+    "C:\\Users\\andre\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}
